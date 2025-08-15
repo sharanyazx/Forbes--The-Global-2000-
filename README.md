@@ -20,13 +20,13 @@ It includes company-level metrics, clustering analysis, industry profit margins,
 ## 📸 Screenshots
 
 ### KPI Overview
-![KPI Overview](screenshots/KPIoverview.png)
+![KPI Overview](screenshot/KPI_overview.png)
 
 ### Top Companies by Market Cap
-![Top Companies](screenshots/Topcompanies.png)
+![Top Companies](screenshot/Top_companies.png)
 
 ### Industry Profit Margins
-![Industry Profit Margins](screenshots/Industryprofitmargi.png)
+![Industry Profit Margins](screenshot/Industry_profit_margi.png)
 
 ---
 
@@ -71,9 +71,9 @@ Forbes--The-Global-2000-/
 ├── data/
 │   └── Forbes_2000_Companies_2025.csv
 ├── screenshots/
-│   ├── Screenshot_2025-08-15_223738.png
-│   ├── Screenshot_2025-08-15_223757.png
-│   └── Screenshot_2025-08-15_223806.png
+│   ├── Industry_profit_margi.png
+│   ├── KPI_overview.png
+│   └── Top_companies.png
 ├── requirements.txt
 └── README.md
 ```
