@@ -1,5 +1,5 @@
 
-# Run:  streamlit run dashboard.py
+# Run:  streamlit run app.py
 
 import re
 import streamlit as st
