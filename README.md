@@ -20,13 +20,13 @@ It includes company-level metrics, clustering analysis, industry profit margins,
 ## 📸 Screenshots
 
 ### KPI Overview
-![KPI Overview]()
+![KPI Overview](screenshots/KPIoverview.png)
 
 ### Top Companies by Market Cap
-![Top Companies](screenshots/Screenshot_2025-08-15_223757.png)
+![Top Companies](screenshots/Topcompanies.png)
 
 ### Industry Profit Margins
-![Industry Profit Margins](screenshots/Screenshot_2025-08-15_223806.png)
+![Industry Profit Margins](screenshots/Industryprofitmargi.png)
 
 ---
 
